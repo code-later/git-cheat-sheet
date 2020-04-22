@@ -10,3 +10,4 @@ A collection of various git commands
 
 * Create branch with `git checkout -b branch-section`
 * `git branch` to see active branch
+* Switch between branches with `git checkout BRANCH_NAME`
