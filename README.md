@@ -17,3 +17,4 @@ A collection of various git commands
 * List remotes with `git remove -v`
 * Push branch to remote with `git push origin master`
 * Pull changes from remote with `git pull origin master`
+* foobar
